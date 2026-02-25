@@ -17,11 +17,6 @@ Hey, I’m Hady<br><br>I’m a Software Engineer who builds smooth, high-perform
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itshadyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itshadyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itshadyy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/itshadyy) 
